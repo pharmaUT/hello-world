@@ -4,4 +4,4 @@ hello. currently learning how to use github. using this readme file as a testing
 
 HELPFUL LINKS
 ---------------
-Branches/Pull Request tutorial (the very basics): https://guides.github.com/activities/hello-world/
+Github - Branches/Pull Request tutorial (the very basics): https://guides.github.com/activities/hello-world/
